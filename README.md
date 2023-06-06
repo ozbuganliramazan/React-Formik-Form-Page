@@ -1,0 +1,5 @@
+# React Formik Form Page
+
+## React Formik is designed with React-Router-dom. After the user clicks the button, the button is disabled for 1 second. After the active registration process, the inside of the form is reset.
+
+![](/Users/ramazanozbuganli/Desktop/okul/react-formik/react-formik/src/form.gif)
